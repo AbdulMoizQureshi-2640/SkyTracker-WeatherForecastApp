@@ -19,6 +19,10 @@ SkyTracker is a weather tracking application that provides real-time weather inf
 - OpenWeather API for weather data
 - Gemini API integrated for simple Chatbot
 
+## Live Demo
+
+You can try out the live demo of SkyTracker [here](https://abdulmoizqureshi-2640.github.io/SkyTracker-WeatherForecastApp/).
+
 
 ## Installation Instructions
 
