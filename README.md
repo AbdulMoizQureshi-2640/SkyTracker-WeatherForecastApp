@@ -9,6 +9,7 @@ SkyTracker is a weather tracking application that provides real-time weather inf
 - **Interactive Charts**: Visualizes temperature changes over time using Chart.js.
 - **User Profile**: Users can optionally provide their name and profile picture.
 - **Responsiveness**: Fully responsive application corresponds to all devices.
+- - **Chatbot**: Tell the weather and non weather related questions. 
 
 ## Technologies Used
 
@@ -65,6 +66,7 @@ To run the SkyTracker application locally, follow these steps:
 - To use the chatbot for weather information, type the keyword "Weather" followed by the city name and press enter.
 - The chatbot will return the current weather conditions for the specified city.
 - Example : "Weather Rawalpindi" by searching this chatbot returns you the corresponding current temperature and weather condition.
+- Or use chatbot with non - weather related quereis.
 
 
 ## Acknowledgements
